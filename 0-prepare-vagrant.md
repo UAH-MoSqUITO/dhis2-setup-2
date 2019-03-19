@@ -64,3 +64,34 @@
     ==> default: Mounting shared folders...
         default: /vagrant => C:/████████/dhis2-setup-2
     ```
+
+* SSH to VM
+
+    ```shell
+    vagrant ssh
+    ```
+
+    ```console
+    $ vagrant ssh
+    Welcome to Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-29-generic x86_64)
+
+    * Documentation:  https://help.ubuntu.com
+    * Management:     https://landscape.canonical.com
+    * Support:        https://ubuntu.com/advantage
+
+    System information as of ███ ███ ██ ██:██:██ UTC ████
+
+    System load:  0.0               Processes:           88
+    Usage of /:   2.4% of 61.80GB   Users logged in:     0
+    Memory usage: 12%               IP address for eth0: ██.██.██.██
+    Swap usage:   0%
+
+    * Ubuntu's Kubernetes 1.14 distributions can bypass Docker and use containerd
+    directly, see https://bit.ly/ubuntu-containerd or try it now with
+
+        snap install microk8s --channel=1.14/beta --classic
+
+    0 packages can be updated.
+    0 updates are security updates.
+
+    ```
