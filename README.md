@@ -8,3 +8,7 @@ Manual process of installing DHIS2
 # Setup server
 
 * [Original steps](setup-server-original.md)
+
+# Import demo data
+
+* [Import Sierra Leone](import-sierra-leone.md)
