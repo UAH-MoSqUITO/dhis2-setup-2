@@ -72,7 +72,7 @@
     ```
 
     ```console
-    $ vagrant ssh
+    $ vagrant ssh -- -L8080:localhost:8080
     Welcome to Ubuntu 18.04.1 LTS (GNU/Linux 4.15.0-29-generic x86_64)
 
     * Documentation:  https://help.ubuntu.com
