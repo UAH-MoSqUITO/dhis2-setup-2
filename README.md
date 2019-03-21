@@ -9,6 +9,7 @@ Manual process of installing DHIS2
 
 * [Original steps](setup-server-original.md)
 
-# Import demo data
+# Additional setup
 
 * [Import Sierra Leone](import-sierra-leone.md)
+* [Configure Google service account](configure-google-service-account.md)
