@@ -13,3 +13,7 @@ Manual process of installing DHIS2
 
 * [Import Sierra Leone](import-sierra-leone.md)
 * [Configure Google service account](configure-google-service-account.md)
+
+# Geospatial
+
+* [Extracting district boundaries](extract-district-boundaries.md)
